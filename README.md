@@ -30,7 +30,7 @@
 
 ## 🖼️ Demo
 
-> Coming Soon — [Demo Video](#)  
+> Coming Soon — [Demo Video](https://drive.google.com/file/d/1j-qdDOC5wKPt-4-1PcBROixS_gI5MNgo/view?resourcekey )  
 *(Optional: Add a Streamlit Share or YouTube demo link here.)*
 
 ---
